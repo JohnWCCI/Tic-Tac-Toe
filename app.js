@@ -3,7 +3,6 @@ const info = document.querySelector("#info");
 const startCells = ["","","","","","","","",""];
 
 let turn = "circle";
-
 info.innerHTML="Circle goes first";
 info.style.fontSize = "x-large";
 var restart = false;
